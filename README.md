@@ -59,7 +59,7 @@ Here the following tasks are done:
  
  ![normalreport](https://user-images.githubusercontent.com/62753355/201164314-d3271a64-9a2f-4c26-a220-dac6e03d71c2.PNG)
 
- *After automation to view allure report , give the following commands:
+ * After automation to view allure report , give the following commands:
  
  ```
  allure generate allure-results --clean -o allure-report
